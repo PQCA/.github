@@ -7,6 +7,7 @@ We have some resources on GitHub:
 - [Open Quantum Safe](https://github.com/open-quantum-safe) Software for prototyping quantum-resistant cryptography
 - [PQ Code Package](https://github.com/pq-code-package) Building high-assurance implementations of post-quantum cryptography algorithms
 - [CBOMkit](https://github.com/cbomkit) Developing a toolset for dealing with Cryptography Bill of Materials (CBOM).
+- [Longfellow](https://github.com/longfellow-zk) enables the construction of zero-knowledge protocols concerning legacy identity verification standards such as the ISO MDOC standard, the JWT standard, and W3 Verifiable Credentials. 
 - [TAC](https://github.com/PQCA/tac) is the home of the Post-Quantum Cryptography Alliance TAC processes, policies, programs, and meeting minutes.
 
 To get involved in the community:
